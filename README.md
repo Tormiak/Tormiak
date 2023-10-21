@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tormiak
 - 👀 I’m interested in learning and working with Back-end!
-- 🌱 I’m currently learning Java!
+- 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on programing projects!
 - 📫 How to reach me: send me a email on tormiak@gmail.com!
 
